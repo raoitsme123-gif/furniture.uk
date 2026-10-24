@@ -1,0 +1,17 @@
+{
+  "announcementText": "AMD Furniture UK | 7 Days Delivery Routes (EVERYDAY) | Next-day deliveries till 7:00 PM order cut-off | Covering Wakefield, Sheffield, Manchester, Birmingham, Leeds, Newcastle & UK-wide",
+  "announcementEnabled": true,
+  "whatsappNumber": "+447576531552",
+  "storePhone": "+44 7576 531552",
+  "storeEmail": "enquiries@amdfurniture.co.uk",
+  "storeAddress": "AMD Furniture UK Headquarters, United Kingdom",
+  "nextDayCutoffTime": "19:00",
+  "deliveryGuaranteeNotice": "Delivery depends on stock, postcode, route and confirmation by AMD Furniture. Next-day delivery available everyday for enquiries confirmed before 7:00 PM on our local 7-day delivery routes. Delivery dates confirmed directly with our logistics team.",
+  "pricingDefaults": {
+    "drawerChargePerDrawer": 15,
+    "standardSpringMattressPrice": 60,
+    "memoryFoamUpgradePrice": 20,
+    "orthopaedicUpgradePrice": 20,
+    "zoneSurchargePerBed": 20
+  }
+}

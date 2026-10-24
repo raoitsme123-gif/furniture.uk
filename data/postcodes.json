@@ -1,0 +1,967 @@
+[
+  {
+    "id": "pc-WF",
+    "prefix": "WF",
+    "city": "Wakefield",
+    "region": "Yorkshire & Humber (Local Sides)",
+    "status": "Eligible",
+    "isLocal7Day": true,
+    "estimatedDays": "Everyday (7 Days) - Next-Day Delivery",
+    "surcharge": 0,
+    "notes": "7 Days delivery route (EVERYDAY). Next day deliveries available: orders sent till 7:00 PM eligible for next day delivery."
+  },
+  {
+    "id": "pc-S",
+    "prefix": "S",
+    "city": "Sheffield, Barnsley",
+    "region": "South Yorkshire (Local Sides)",
+    "status": "Eligible",
+    "isLocal7Day": true,
+    "estimatedDays": "Everyday (7 Days) - Next-Day Delivery",
+    "surcharge": 0,
+    "notes": "7 Days delivery route (EVERYDAY). Next day deliveries available: orders sent till 7:00 PM eligible for next day delivery."
+  },
+  {
+    "id": "pc-DN",
+    "prefix": "DN",
+    "city": "Doncaster",
+    "region": "South Yorkshire (Local Sides)",
+    "status": "Eligible",
+    "isLocal7Day": true,
+    "estimatedDays": "Everyday (7 Days) - Next-Day Delivery",
+    "surcharge": 0,
+    "notes": "7 Days delivery route (EVERYDAY). Next day deliveries available: orders sent till 7:00 PM eligible for next day delivery."
+  },
+  {
+    "id": "pc-DE",
+    "prefix": "DE",
+    "city": "Derby",
+    "region": "East Midlands (Local Sides)",
+    "status": "Eligible",
+    "isLocal7Day": true,
+    "estimatedDays": "Everyday (7 Days) - Next-Day Delivery",
+    "surcharge": 0,
+    "notes": "7 Days delivery route (EVERYDAY). Next day deliveries available: orders sent till 7:00 PM eligible for next day delivery."
+  },
+  {
+    "id": "pc-NG",
+    "prefix": "NG",
+    "city": "Nottingham",
+    "region": "East Midlands (Local Sides)",
+    "status": "Eligible",
+    "isLocal7Day": true,
+    "estimatedDays": "Everyday (7 Days) - Next-Day Delivery",
+    "surcharge": 0,
+    "notes": "7 Days delivery route (EVERYDAY). Next day deliveries available: orders sent till 7:00 PM eligible for next day delivery."
+  },
+  {
+    "id": "pc-LE",
+    "prefix": "LE",
+    "city": "Leicester",
+    "region": "East Midlands (Local Sides)",
+    "status": "Eligible",
+    "isLocal7Day": true,
+    "estimatedDays": "Everyday (7 Days) - Next-Day Delivery",
+    "surcharge": 0,
+    "notes": "7 Days delivery route (EVERYDAY). Next day deliveries available: orders sent till 7:00 PM eligible for next day delivery."
+  },
+  {
+    "id": "pc-CV",
+    "prefix": "CV",
+    "city": "Coventry",
+    "region": "West Midlands (Local Sides)",
+    "status": "Eligible",
+    "isLocal7Day": true,
+    "estimatedDays": "Everyday (7 Days) - Next-Day Delivery",
+    "surcharge": 0,
+    "notes": "7 Days delivery route (EVERYDAY). Next day deliveries available: orders sent till 7:00 PM eligible for next day delivery."
+  },
+  {
+    "id": "pc-B",
+    "prefix": "B",
+    "city": "Birmingham",
+    "region": "West Midlands (Local Sides)",
+    "status": "Eligible",
+    "isLocal7Day": true,
+    "estimatedDays": "Everyday (7 Days) - Next-Day Delivery",
+    "surcharge": 0,
+    "notes": "7 Days delivery route (EVERYDAY). Next day deliveries available: orders sent till 7:00 PM eligible for next day delivery."
+  },
+  {
+    "id": "pc-WV",
+    "prefix": "WV",
+    "city": "Wolverhampton",
+    "region": "West Midlands (Local Sides)",
+    "status": "Eligible",
+    "isLocal7Day": true,
+    "estimatedDays": "Everyday (7 Days) - Next-Day Delivery",
+    "surcharge": 0,
+    "notes": "7 Days delivery route (EVERYDAY). Next day deliveries available: orders sent till 7:00 PM eligible for next day delivery."
+  },
+  {
+    "id": "pc-WS",
+    "prefix": "WS",
+    "city": "Walsall",
+    "region": "West Midlands (Local Sides)",
+    "status": "Eligible",
+    "isLocal7Day": true,
+    "estimatedDays": "Everyday (7 Days) - Next-Day Delivery",
+    "surcharge": 0,
+    "notes": "7 Days delivery route (EVERYDAY). Next day deliveries available: orders sent till 7:00 PM eligible for next day delivery."
+  },
+  {
+    "id": "pc-DY",
+    "prefix": "DY",
+    "city": "Dudley",
+    "region": "West Midlands (Local Sides)",
+    "status": "Eligible",
+    "isLocal7Day": true,
+    "estimatedDays": "Everyday (7 Days) - Next-Day Delivery",
+    "surcharge": 0,
+    "notes": "7 Days delivery route (EVERYDAY). Next day deliveries available: orders sent till 7:00 PM eligible for next day delivery."
+  },
+  {
+    "id": "pc-BD",
+    "prefix": "BD",
+    "city": "Bradford",
+    "region": "West Yorkshire (Local Sides)",
+    "status": "Eligible",
+    "isLocal7Day": true,
+    "estimatedDays": "Everyday (7 Days) - Next-Day Delivery",
+    "surcharge": 0,
+    "notes": "7 Days delivery route (EVERYDAY). Next day deliveries available: orders sent till 7:00 PM eligible for next day delivery."
+  },
+  {
+    "id": "pc-HD",
+    "prefix": "HD",
+    "city": "Huddersfield",
+    "region": "West Yorkshire (Local Sides)",
+    "status": "Eligible",
+    "isLocal7Day": true,
+    "estimatedDays": "Everyday (7 Days) - Next-Day Delivery",
+    "surcharge": 0,
+    "notes": "7 Days delivery route (EVERYDAY). Next day deliveries available: orders sent till 7:00 PM eligible for next day delivery."
+  },
+  {
+    "id": "pc-HX",
+    "prefix": "HX",
+    "city": "Halifax",
+    "region": "West Yorkshire (Local Sides)",
+    "status": "Eligible",
+    "isLocal7Day": true,
+    "estimatedDays": "Everyday (7 Days) - Next-Day Delivery",
+    "surcharge": 0,
+    "notes": "7 Days delivery route (EVERYDAY). Next day deliveries available: orders sent till 7:00 PM eligible for next day delivery."
+  },
+  {
+    "id": "pc-ST",
+    "prefix": "ST",
+    "city": "Stoke-on-Trent",
+    "region": "Staffordshire / Midlands (Local Sides)",
+    "status": "Eligible",
+    "isLocal7Day": true,
+    "estimatedDays": "Everyday (7 Days) - Next-Day Delivery",
+    "surcharge": 0,
+    "notes": "7 Days delivery route (EVERYDAY). Next day deliveries available: orders sent till 7:00 PM eligible for next day delivery."
+  },
+  {
+    "id": "pc-TF",
+    "prefix": "TF",
+    "city": "Telford",
+    "region": "Shropshire / West Midlands (Local Sides)",
+    "status": "Eligible",
+    "isLocal7Day": true,
+    "estimatedDays": "Everyday (7 Days) - Next-Day Delivery",
+    "surcharge": 0,
+    "notes": "7 Days delivery route (EVERYDAY). Next day deliveries available: orders sent till 7:00 PM eligible for next day delivery."
+  },
+  {
+    "id": "pc-M",
+    "prefix": "M",
+    "city": "Manchester",
+    "region": "Greater Manchester (Local Sides)",
+    "status": "Eligible",
+    "isLocal7Day": true,
+    "estimatedDays": "Everyday (7 Days) - Next-Day Delivery",
+    "surcharge": 0,
+    "notes": "7 Days delivery route (EVERYDAY). Next day deliveries available: orders sent till 7:00 PM eligible for next day delivery."
+  },
+  {
+    "id": "pc-OL",
+    "prefix": "OL",
+    "city": "Oldham",
+    "region": "Greater Manchester (Local Sides)",
+    "status": "Eligible",
+    "isLocal7Day": true,
+    "estimatedDays": "Everyday (7 Days) - Next-Day Delivery",
+    "surcharge": 0,
+    "notes": "7 Days delivery route (EVERYDAY). Next day deliveries available: orders sent till 7:00 PM eligible for next day delivery."
+  },
+  {
+    "id": "pc-PR",
+    "prefix": "PR",
+    "city": "Preston",
+    "region": "Lancashire (Local Sides)",
+    "status": "Eligible",
+    "isLocal7Day": true,
+    "estimatedDays": "Everyday (7 Days) - Next-Day Delivery",
+    "surcharge": 0,
+    "notes": "7 Days delivery route (EVERYDAY). Next day deliveries available: orders sent till 7:00 PM eligible for next day delivery."
+  },
+  {
+    "id": "pc-L",
+    "prefix": "L",
+    "city": "Liverpool",
+    "region": "Merseyside (Local Sides)",
+    "status": "Eligible",
+    "isLocal7Day": true,
+    "estimatedDays": "Everyday (7 Days) - Next-Day Delivery",
+    "surcharge": 0,
+    "notes": "7 Days delivery route (EVERYDAY). Next day deliveries available: orders sent till 7:00 PM eligible for next day delivery."
+  },
+  {
+    "id": "pc-FY",
+    "prefix": "FY",
+    "city": "Blackpool",
+    "region": "Lancashire (Local Sides)",
+    "status": "Eligible",
+    "isLocal7Day": true,
+    "estimatedDays": "Everyday (7 Days) - Next-Day Delivery",
+    "surcharge": 0,
+    "notes": "7 Days delivery route (EVERYDAY). Next day deliveries available: orders sent till 7:00 PM eligible for next day delivery."
+  },
+  {
+    "id": "pc-WN",
+    "prefix": "WN",
+    "city": "Wigan",
+    "region": "Greater Manchester (Local Sides)",
+    "status": "Eligible",
+    "isLocal7Day": true,
+    "estimatedDays": "Everyday (7 Days) - Next-Day Delivery",
+    "surcharge": 0,
+    "notes": "7 Days delivery route (EVERYDAY). Next day deliveries available: orders sent till 7:00 PM eligible for next day delivery."
+  },
+  {
+    "id": "pc-BL",
+    "prefix": "BL",
+    "city": "Bolton, Bury",
+    "region": "Greater Manchester (Local Sides)",
+    "status": "Eligible",
+    "isLocal7Day": true,
+    "estimatedDays": "Everyday (7 Days) - Next-Day Delivery",
+    "surcharge": 0,
+    "notes": "7 Days delivery route (EVERYDAY). Next day deliveries available: orders sent till 7:00 PM eligible for next day delivery."
+  },
+  {
+    "id": "pc-BB",
+    "prefix": "BB",
+    "city": "Blackburn",
+    "region": "Lancashire (Local Sides)",
+    "status": "Eligible",
+    "isLocal7Day": true,
+    "estimatedDays": "Everyday (7 Days) - Next-Day Delivery",
+    "surcharge": 0,
+    "notes": "7 Days delivery route (EVERYDAY). Next day deliveries available: orders sent till 7:00 PM eligible for next day delivery."
+  },
+  {
+    "id": "pc-WA",
+    "prefix": "WA",
+    "city": "Warrington",
+    "region": "Cheshire (Local Sides)",
+    "status": "Eligible",
+    "isLocal7Day": true,
+    "estimatedDays": "Everyday (7 Days) - Next-Day Delivery",
+    "surcharge": 0,
+    "notes": "7 Days delivery route (EVERYDAY). Next day deliveries available: orders sent till 7:00 PM eligible for next day delivery."
+  },
+  {
+    "id": "pc-CH",
+    "prefix": "CH",
+    "city": "Chester",
+    "region": "Cheshire (Local Sides)",
+    "status": "Eligible",
+    "isLocal7Day": true,
+    "estimatedDays": "Everyday (7 Days) - Next-Day Delivery",
+    "surcharge": 0,
+    "notes": "7 Days delivery route (EVERYDAY). Next day deliveries available: orders sent till 7:00 PM eligible for next day delivery."
+  },
+  {
+    "id": "pc-SK",
+    "prefix": "SK",
+    "city": "Stockport",
+    "region": "Greater Manchester (Local Sides)",
+    "status": "Eligible",
+    "isLocal7Day": true,
+    "estimatedDays": "Everyday (7 Days) - Next-Day Delivery",
+    "surcharge": 0,
+    "notes": "7 Days delivery route (EVERYDAY). Next day deliveries available: orders sent till 7:00 PM eligible for next day delivery."
+  },
+  {
+    "id": "pc-CW",
+    "prefix": "CW",
+    "city": "Crewe",
+    "region": "Cheshire (Local Sides)",
+    "status": "Eligible",
+    "isLocal7Day": true,
+    "estimatedDays": "Everyday (7 Days) - Next-Day Delivery",
+    "surcharge": 0,
+    "notes": "7 Days delivery route (EVERYDAY). Next day deliveries available: orders sent till 7:00 PM eligible for next day delivery."
+  },
+  {
+    "id": "pc-LS",
+    "prefix": "LS",
+    "city": "Leeds",
+    "region": "West Yorkshire (Local Sides)",
+    "status": "Eligible",
+    "isLocal7Day": true,
+    "estimatedDays": "Everyday (7 Days) - Next-Day Delivery",
+    "surcharge": 0,
+    "notes": "7 Days delivery route (EVERYDAY). Next day deliveries available: orders sent till 7:00 PM eligible for next day delivery."
+  },
+  {
+    "id": "pc-HG",
+    "prefix": "HG",
+    "city": "Harrogate",
+    "region": "North Yorkshire (Local Sides)",
+    "status": "Eligible",
+    "isLocal7Day": true,
+    "estimatedDays": "Everyday (7 Days) - Next-Day Delivery",
+    "surcharge": 0,
+    "notes": "7 Days delivery route (EVERYDAY). Next day deliveries available: orders sent till 7:00 PM eligible for next day delivery."
+  },
+  {
+    "id": "pc-YO",
+    "prefix": "YO",
+    "city": "York",
+    "region": "North Yorkshire (Local Sides)",
+    "status": "Eligible",
+    "isLocal7Day": true,
+    "estimatedDays": "Everyday (7 Days) - Next-Day Delivery",
+    "surcharge": 0,
+    "notes": "7 Days delivery route (EVERYDAY). Next day deliveries available: orders sent till 7:00 PM eligible for next day delivery."
+  },
+  {
+    "id": "pc-NE",
+    "prefix": "NE",
+    "city": "Newcastle",
+    "region": "Tyne and Wear (Local Sides)",
+    "status": "Eligible",
+    "isLocal7Day": true,
+    "estimatedDays": "Everyday (7 Days) - Next-Day Delivery",
+    "surcharge": 0,
+    "notes": "7 Days delivery route (EVERYDAY). Next day deliveries available: orders sent till 7:00 PM eligible for next day delivery."
+  },
+  {
+    "id": "pc-SR",
+    "prefix": "SR",
+    "city": "Sunderland",
+    "region": "Tyne and Wear (Local Sides)",
+    "status": "Eligible",
+    "isLocal7Day": true,
+    "estimatedDays": "Everyday (7 Days) - Next-Day Delivery",
+    "surcharge": 0,
+    "notes": "7 Days delivery route (EVERYDAY). Next day deliveries available: orders sent till 7:00 PM eligible for next day delivery."
+  },
+  {
+    "id": "pc-DH",
+    "prefix": "DH",
+    "city": "Durham",
+    "region": "County Durham (Local Sides)",
+    "status": "Eligible",
+    "isLocal7Day": true,
+    "estimatedDays": "Everyday (7 Days) - Next-Day Delivery",
+    "surcharge": 0,
+    "notes": "7 Days delivery route (EVERYDAY). Next day deliveries available: orders sent till 7:00 PM eligible for next day delivery."
+  },
+  {
+    "id": "pc-DL",
+    "prefix": "DL",
+    "city": "Darlington, Durham",
+    "region": "County Durham (Local Sides)",
+    "status": "Eligible",
+    "isLocal7Day": true,
+    "estimatedDays": "Everyday (7 Days) - Next-Day Delivery",
+    "surcharge": 0,
+    "notes": "7 Days delivery route (EVERYDAY). Next day deliveries available: orders sent till 7:00 PM eligible for next day delivery."
+  },
+  {
+    "id": "pc-TS",
+    "prefix": "TS",
+    "city": "Middlesbrough",
+    "region": "Teesside / North East (Local Sides)",
+    "status": "Eligible",
+    "isLocal7Day": true,
+    "estimatedDays": "Everyday (7 Days) - Next-Day Delivery",
+    "surcharge": 0,
+    "notes": "7 Days delivery route (EVERYDAY). Next day deliveries available: orders sent till 7:00 PM eligible for next day delivery."
+  },
+  {
+    "id": "pc-LN",
+    "prefix": "LN",
+    "city": "Lincoln",
+    "region": "Lincolnshire (Local Sides)",
+    "status": "Eligible",
+    "isLocal7Day": true,
+    "estimatedDays": "Everyday (7 Days) - Next-Day Delivery",
+    "surcharge": 0,
+    "notes": "7 Days delivery route (EVERYDAY). Next day deliveries available: orders sent till 7:00 PM eligible for next day delivery."
+  },
+  {
+    "id": "pc-PE",
+    "prefix": "PE",
+    "city": "Peterborough, Bourne",
+    "region": "East of England (Local Sides)",
+    "status": "Eligible",
+    "isLocal7Day": true,
+    "estimatedDays": "Everyday (7 Days) - Next-Day Delivery",
+    "surcharge": 0,
+    "notes": "7 Days delivery route (EVERYDAY). Next day deliveries available: orders sent till 7:00 PM eligible for next day delivery."
+  },
+  {
+    "id": "pc-NN",
+    "prefix": "NN",
+    "city": "Northamptonshire",
+    "region": "East Midlands (Local Sides)",
+    "status": "Eligible",
+    "isLocal7Day": true,
+    "estimatedDays": "Everyday (7 Days) - Next-Day Delivery",
+    "surcharge": 0,
+    "notes": "7 Days delivery route (EVERYDAY). Next day deliveries available: orders sent till 7:00 PM eligible for next day delivery."
+  },
+  {
+    "id": "pc-HU",
+    "prefix": "HU",
+    "city": "Hull",
+    "region": "East Yorkshire (Local Sides)",
+    "status": "Eligible",
+    "isLocal7Day": true,
+    "estimatedDays": "Everyday (7 Days) - Next-Day Delivery",
+    "surcharge": 0,
+    "notes": "7 Days delivery route (EVERYDAY). Next day deliveries available: orders sent till 7:00 PM eligible for next day delivery."
+  },
+  {
+    "id": "pc-WR",
+    "prefix": "WR",
+    "city": "Worcester",
+    "region": "West Midlands (Local Sides)",
+    "status": "Eligible",
+    "isLocal7Day": true,
+    "estimatedDays": "Everyday (7 Days) - Next-Day Delivery",
+    "surcharge": 0,
+    "notes": "7 Days delivery route (EVERYDAY). Next day deliveries available: orders sent till 7:00 PM eligible for next day delivery."
+  },
+  {
+    "id": "pc-SY",
+    "prefix": "SY",
+    "city": "Shrewsbury",
+    "region": "Shropshire / West Midlands (Local Sides)",
+    "status": "Eligible",
+    "isLocal7Day": true,
+    "estimatedDays": "Everyday (7 Days) - Next-Day Delivery",
+    "surcharge": 0,
+    "notes": "7 Days delivery route (EVERYDAY). Next day deliveries available: orders sent till 7:00 PM eligible for next day delivery."
+  },
+  {
+    "id": "pc-LL",
+    "prefix": "LL",
+    "city": "Wrexham",
+    "region": "North Wales & Border (Local Sides)",
+    "status": "Eligible",
+    "isLocal7Day": true,
+    "estimatedDays": "Everyday (7 Days) - Next-Day Delivery",
+    "surcharge": 0,
+    "notes": "7 Days delivery route (EVERYDAY). Next day deliveries available: orders sent till 7:00 PM eligible for next day delivery."
+  },
+  {
+    "id": "pc-LA",
+    "prefix": "LA",
+    "city": "Lancaster",
+    "region": "Lancashire (Local Sides)",
+    "status": "Eligible",
+    "isLocal7Day": true,
+    "estimatedDays": "Everyday (7 Days) - Next-Day Delivery",
+    "surcharge": 0,
+    "notes": "7 Days delivery route (EVERYDAY). Next day deliveries available: orders sent till 7:00 PM eligible for next day delivery."
+  },
+  {
+    "id": "pc-LU",
+    "prefix": "LU",
+    "city": "Luton",
+    "region": "Bedfordshire / South East (Local Sides)",
+    "status": "Eligible",
+    "isLocal7Day": true,
+    "estimatedDays": "Everyday (7 Days) - Next-Day Delivery",
+    "surcharge": 0,
+    "notes": "7 Days delivery route (EVERYDAY). Next day deliveries available: orders sent till 7:00 PM eligible for next day delivery."
+  },
+  {
+    "id": "pc-MK",
+    "prefix": "MK",
+    "city": "Milton Keynes",
+    "region": "Buckinghamshire (Local Sides)",
+    "status": "Eligible",
+    "isLocal7Day": true,
+    "estimatedDays": "Everyday (7 Days) - Next-Day Delivery",
+    "surcharge": 0,
+    "notes": "7 Days delivery route (EVERYDAY). Next day deliveries available: orders sent till 7:00 PM eligible for next day delivery."
+  },
+  {
+    "id": "pc-OX",
+    "prefix": "OX",
+    "region": "London & Home Counties",
+    "status": "Eligible",
+    "estimatedDays": "1-2 Days (Next-Day Eligible)",
+    "surcharge": 0,
+    "notes": "Standard fast delivery route. Eligible for next-day bed delivery if confirmed by 7:00 PM."
+  },
+  {
+    "id": "pc-CB",
+    "prefix": "CB",
+    "region": "London & Home Counties",
+    "status": "Eligible",
+    "estimatedDays": "1-2 Days (Next-Day Eligible)",
+    "surcharge": 0,
+    "notes": "Standard fast delivery route. Eligible for next-day bed delivery if confirmed by 7:00 PM."
+  },
+  {
+    "id": "pc-AL",
+    "prefix": "AL",
+    "region": "London & Home Counties",
+    "status": "Eligible",
+    "estimatedDays": "1-2 Days (Next-Day Eligible)",
+    "surcharge": 0,
+    "notes": "Standard fast delivery route. Eligible for next-day bed delivery if confirmed by 7:00 PM."
+  },
+  {
+    "id": "pc-BR",
+    "prefix": "BR",
+    "region": "London & Home Counties",
+    "status": "Eligible",
+    "estimatedDays": "1-2 Days (Next-Day Eligible)",
+    "surcharge": 0,
+    "notes": "Standard fast delivery route. Eligible for next-day bed delivery if confirmed by 7:00 PM."
+  },
+  {
+    "id": "pc-CM",
+    "prefix": "CM",
+    "region": "London & Home Counties",
+    "status": "Eligible",
+    "estimatedDays": "1-2 Days (Next-Day Eligible)",
+    "surcharge": 0,
+    "notes": "Standard fast delivery route. Eligible for next-day bed delivery if confirmed by 7:00 PM."
+  },
+  {
+    "id": "pc-CO",
+    "prefix": "CO",
+    "region": "London & Home Counties",
+    "status": "Eligible",
+    "estimatedDays": "1-2 Days (Next-Day Eligible)",
+    "surcharge": 0,
+    "notes": "Standard fast delivery route. Eligible for next-day bed delivery if confirmed by 7:00 PM."
+  },
+  {
+    "id": "pc-CR",
+    "prefix": "CR",
+    "region": "London & Home Counties",
+    "status": "Eligible",
+    "estimatedDays": "1-2 Days (Next-Day Eligible)",
+    "surcharge": 0,
+    "notes": "Standard fast delivery route. Eligible for next-day bed delivery if confirmed by 7:00 PM."
+  },
+  {
+    "id": "pc-DA",
+    "prefix": "DA",
+    "region": "London & Home Counties",
+    "status": "Eligible",
+    "estimatedDays": "1-2 Days (Next-Day Eligible)",
+    "surcharge": 0,
+    "notes": "Standard fast delivery route. Eligible for next-day bed delivery if confirmed by 7:00 PM."
+  },
+  {
+    "id": "pc-E",
+    "prefix": "E",
+    "region": "London & Home Counties",
+    "status": "Eligible",
+    "estimatedDays": "1-2 Days (Next-Day Eligible)",
+    "surcharge": 0,
+    "notes": "Standard fast delivery route. Eligible for next-day bed delivery if confirmed by 7:00 PM."
+  },
+  {
+    "id": "pc-EC",
+    "prefix": "EC",
+    "region": "London & Home Counties",
+    "status": "Eligible",
+    "estimatedDays": "1-2 Days (Next-Day Eligible)",
+    "surcharge": 0,
+    "notes": "Standard fast delivery route. Eligible for next-day bed delivery if confirmed by 7:00 PM."
+  },
+  {
+    "id": "pc-EN",
+    "prefix": "EN",
+    "region": "London & Home Counties",
+    "status": "Eligible",
+    "estimatedDays": "1-2 Days (Next-Day Eligible)",
+    "surcharge": 0,
+    "notes": "Standard fast delivery route. Eligible for next-day bed delivery if confirmed by 7:00 PM."
+  },
+  {
+    "id": "pc-GU",
+    "prefix": "GU",
+    "region": "London & Home Counties",
+    "status": "Eligible",
+    "estimatedDays": "1-2 Days (Next-Day Eligible)",
+    "surcharge": 0,
+    "notes": "Standard fast delivery route. Eligible for next-day bed delivery if confirmed by 7:00 PM."
+  },
+  {
+    "id": "pc-HA",
+    "prefix": "HA",
+    "region": "London & Home Counties",
+    "status": "Eligible",
+    "estimatedDays": "1-2 Days (Next-Day Eligible)",
+    "surcharge": 0,
+    "notes": "Standard fast delivery route. Eligible for next-day bed delivery if confirmed by 7:00 PM."
+  },
+  {
+    "id": "pc-HP",
+    "prefix": "HP",
+    "region": "London & Home Counties",
+    "status": "Eligible",
+    "estimatedDays": "1-2 Days (Next-Day Eligible)",
+    "surcharge": 0,
+    "notes": "Standard fast delivery route. Eligible for next-day bed delivery if confirmed by 7:00 PM."
+  },
+  {
+    "id": "pc-IG",
+    "prefix": "IG",
+    "region": "London & Home Counties",
+    "status": "Eligible",
+    "estimatedDays": "1-2 Days (Next-Day Eligible)",
+    "surcharge": 0,
+    "notes": "Standard fast delivery route. Eligible for next-day bed delivery if confirmed by 7:00 PM."
+  },
+  {
+    "id": "pc-KT",
+    "prefix": "KT",
+    "region": "London & Home Counties",
+    "status": "Eligible",
+    "estimatedDays": "1-2 Days (Next-Day Eligible)",
+    "surcharge": 0,
+    "notes": "Standard fast delivery route. Eligible for next-day bed delivery if confirmed by 7:00 PM."
+  },
+  {
+    "id": "pc-ME",
+    "prefix": "ME",
+    "region": "London & Home Counties",
+    "status": "Eligible",
+    "estimatedDays": "1-2 Days (Next-Day Eligible)",
+    "surcharge": 0,
+    "notes": "Standard fast delivery route. Eligible for next-day bed delivery if confirmed by 7:00 PM."
+  },
+  {
+    "id": "pc-N",
+    "prefix": "N",
+    "region": "London & Home Counties",
+    "status": "Eligible",
+    "estimatedDays": "1-2 Days (Next-Day Eligible)",
+    "surcharge": 0,
+    "notes": "Standard fast delivery route. Eligible for next-day bed delivery if confirmed by 7:00 PM."
+  },
+  {
+    "id": "pc-NW",
+    "prefix": "NW",
+    "region": "London & Home Counties",
+    "status": "Eligible",
+    "estimatedDays": "1-2 Days (Next-Day Eligible)",
+    "surcharge": 0,
+    "notes": "Standard fast delivery route. Eligible for next-day bed delivery if confirmed by 7:00 PM."
+  },
+  {
+    "id": "pc-RG",
+    "prefix": "RG",
+    "region": "London & Home Counties",
+    "status": "Eligible",
+    "estimatedDays": "1-2 Days (Next-Day Eligible)",
+    "surcharge": 0,
+    "notes": "Standard fast delivery route. Eligible for next-day bed delivery if confirmed by 7:00 PM."
+  },
+  {
+    "id": "pc-RH",
+    "prefix": "RH",
+    "region": "London & Home Counties",
+    "status": "Eligible",
+    "estimatedDays": "1-2 Days (Next-Day Eligible)",
+    "surcharge": 0,
+    "notes": "Standard fast delivery route. Eligible for next-day bed delivery if confirmed by 7:00 PM."
+  },
+  {
+    "id": "pc-RM",
+    "prefix": "RM",
+    "region": "London & Home Counties",
+    "status": "Eligible",
+    "estimatedDays": "1-2 Days (Next-Day Eligible)",
+    "surcharge": 0,
+    "notes": "Standard fast delivery route. Eligible for next-day bed delivery if confirmed by 7:00 PM."
+  },
+  {
+    "id": "pc-SE",
+    "prefix": "SE",
+    "region": "London & Home Counties",
+    "status": "Eligible",
+    "estimatedDays": "1-2 Days (Next-Day Eligible)",
+    "surcharge": 0,
+    "notes": "Standard fast delivery route. Eligible for next-day bed delivery if confirmed by 7:00 PM."
+  },
+  {
+    "id": "pc-SG",
+    "prefix": "SG",
+    "region": "London & Home Counties",
+    "status": "Eligible",
+    "estimatedDays": "1-2 Days (Next-Day Eligible)",
+    "surcharge": 0,
+    "notes": "Standard fast delivery route. Eligible for next-day bed delivery if confirmed by 7:00 PM."
+  },
+  {
+    "id": "pc-SL",
+    "prefix": "SL",
+    "region": "London & Home Counties",
+    "status": "Eligible",
+    "estimatedDays": "1-2 Days (Next-Day Eligible)",
+    "surcharge": 0,
+    "notes": "Standard fast delivery route. Eligible for next-day bed delivery if confirmed by 7:00 PM."
+  },
+  {
+    "id": "pc-SM",
+    "prefix": "SM",
+    "region": "London & Home Counties",
+    "status": "Eligible",
+    "estimatedDays": "1-2 Days (Next-Day Eligible)",
+    "surcharge": 0,
+    "notes": "Standard fast delivery route. Eligible for next-day bed delivery if confirmed by 7:00 PM."
+  },
+  {
+    "id": "pc-SS",
+    "prefix": "SS",
+    "region": "London & Home Counties",
+    "status": "Eligible",
+    "estimatedDays": "1-2 Days (Next-Day Eligible)",
+    "surcharge": 0,
+    "notes": "Standard fast delivery route. Eligible for next-day bed delivery if confirmed by 7:00 PM."
+  },
+  {
+    "id": "pc-SW",
+    "prefix": "SW",
+    "region": "London & Home Counties",
+    "status": "Eligible",
+    "estimatedDays": "1-2 Days (Next-Day Eligible)",
+    "surcharge": 0,
+    "notes": "Standard fast delivery route. Eligible for next-day bed delivery if confirmed by 7:00 PM."
+  },
+  {
+    "id": "pc-TW",
+    "prefix": "TW",
+    "region": "London & Home Counties",
+    "status": "Eligible",
+    "estimatedDays": "1-2 Days (Next-Day Eligible)",
+    "surcharge": 0,
+    "notes": "Standard fast delivery route. Eligible for next-day bed delivery if confirmed by 7:00 PM."
+  },
+  {
+    "id": "pc-UB",
+    "prefix": "UB",
+    "region": "London & Home Counties",
+    "status": "Eligible",
+    "estimatedDays": "1-2 Days (Next-Day Eligible)",
+    "surcharge": 0,
+    "notes": "Standard fast delivery route. Eligible for next-day bed delivery if confirmed by 7:00 PM."
+  },
+  {
+    "id": "pc-W",
+    "prefix": "W",
+    "region": "London & Home Counties",
+    "status": "Eligible",
+    "estimatedDays": "1-2 Days (Next-Day Eligible)",
+    "surcharge": 0,
+    "notes": "Standard fast delivery route. Eligible for next-day bed delivery if confirmed by 7:00 PM."
+  },
+  {
+    "id": "pc-WD",
+    "prefix": "WD",
+    "region": "London & Home Counties",
+    "status": "Eligible",
+    "estimatedDays": "1-2 Days (Next-Day Eligible)",
+    "surcharge": 0,
+    "notes": "Standard fast delivery route. Eligible for next-day bed delivery if confirmed by 7:00 PM."
+  },
+  {
+    "id": "pc-PA",
+    "prefix": "PA",
+    "region": "Scotland & Northern Routes",
+    "status": "Eligible",
+    "estimatedDays": "2-3 Days",
+    "surcharge": 0,
+    "notes": "Direct Scottish route. Advance scheduling available."
+  },
+  {
+    "id": "pc-KA",
+    "prefix": "KA",
+    "region": "Scotland & Northern Routes",
+    "status": "Eligible",
+    "estimatedDays": "2-3 Days",
+    "surcharge": 0,
+    "notes": "Direct Scottish route. Advance scheduling available."
+  },
+  {
+    "id": "pc-ML",
+    "prefix": "ML",
+    "region": "Scotland & Northern Routes",
+    "status": "Eligible",
+    "estimatedDays": "2-3 Days",
+    "surcharge": 0,
+    "notes": "Direct Scottish route. Advance scheduling available."
+  },
+  {
+    "id": "pc-FK",
+    "prefix": "FK",
+    "region": "Scotland & Northern Routes",
+    "status": "Eligible",
+    "estimatedDays": "2-3 Days",
+    "surcharge": 0,
+    "notes": "Direct Scottish route. Advance scheduling available."
+  },
+  {
+    "id": "pc-G",
+    "prefix": "G",
+    "region": "Scotland (Glasgow Metro & Clyde)",
+    "status": "Eligible",
+    "estimatedDays": "1-2 Days (Direct Glasgow Route)",
+    "surcharge": 0,
+    "notes": "UK-wide delivery includes frequent weekly direct Glasgow routes."
+  },
+  {
+    "id": "pc-EH",
+    "prefix": "EH",
+    "region": "Scotland & Northern Routes",
+    "status": "Eligible",
+    "estimatedDays": "2-3 Days",
+    "surcharge": 0,
+    "notes": "Direct Scottish route. Advance scheduling available."
+  },
+  {
+    "id": "pc-KY",
+    "prefix": "KY",
+    "region": "Scotland & Northern Routes",
+    "status": "Eligible",
+    "estimatedDays": "2-3 Days",
+    "surcharge": 0,
+    "notes": "Direct Scottish route. Advance scheduling available."
+  },
+  {
+    "id": "pc-DG",
+    "prefix": "DG",
+    "region": "Scotland & Northern Routes",
+    "status": "Eligible",
+    "estimatedDays": "2-3 Days",
+    "surcharge": 0,
+    "notes": "Direct Scottish route. Advance scheduling available."
+  },
+  {
+    "id": "pc-TD",
+    "prefix": "TD",
+    "region": "Scotland & Northern Routes",
+    "status": "Eligible",
+    "estimatedDays": "2-3 Days",
+    "surcharge": 0,
+    "notes": "Direct Scottish route. Advance scheduling available."
+  },
+  {
+    "id": "pc-CA",
+    "prefix": "CA",
+    "region": "Scotland & Northern Routes",
+    "status": "Eligible",
+    "estimatedDays": "2-3 Days",
+    "surcharge": 0,
+    "notes": "Direct Scottish route. Advance scheduling available."
+  },
+  {
+    "id": "pc-PH",
+    "prefix": "PH",
+    "region": "Scotland & Northern Routes",
+    "status": "Eligible",
+    "estimatedDays": "2-3 Days",
+    "surcharge": 0,
+    "notes": "Direct Scottish route. Advance scheduling available."
+  },
+  {
+    "id": "pc-SN",
+    "prefix": "SN",
+    "region": "Wales & West Country",
+    "status": "Eligible",
+    "estimatedDays": "2 Days",
+    "surcharge": 0,
+    "notes": "Regular scheduled route. Driver calls 1 hour before arrival."
+  },
+  {
+    "id": "pc-BS",
+    "prefix": "BS",
+    "region": "Wales & West Country",
+    "status": "Eligible",
+    "estimatedDays": "2 Days",
+    "surcharge": 0,
+    "notes": "Regular scheduled route. Driver calls 1 hour before arrival."
+  },
+  {
+    "id": "pc-CF",
+    "prefix": "CF",
+    "region": "Wales & West Country",
+    "status": "Eligible",
+    "estimatedDays": "2 Days",
+    "surcharge": 0,
+    "notes": "Regular scheduled route. Driver calls 1 hour before arrival."
+  },
+  {
+    "id": "pc-GL",
+    "prefix": "GL",
+    "region": "Wales & West Country",
+    "status": "Eligible",
+    "estimatedDays": "2 Days",
+    "surcharge": 0,
+    "notes": "Regular scheduled route. Driver calls 1 hour before arrival."
+  },
+  {
+    "id": "pc-HR",
+    "prefix": "HR",
+    "region": "Wales & West Country",
+    "status": "Eligible",
+    "estimatedDays": "2 Days",
+    "surcharge": 0,
+    "notes": "Regular scheduled route. Driver calls 1 hour before arrival."
+  },
+  {
+    "id": "pc-NP",
+    "prefix": "NP",
+    "region": "Wales & West Country",
+    "status": "Eligible",
+    "estimatedDays": "2 Days",
+    "surcharge": 0,
+    "notes": "Regular scheduled route. Driver calls 1 hour before arrival."
+  },
+  {
+    "id": "pc-BA",
+    "prefix": "BA",
+    "region": "Wales & West Country",
+    "status": "Eligible",
+    "estimatedDays": "2 Days",
+    "surcharge": 0,
+    "notes": "Regular scheduled route. Driver calls 1 hour before arrival."
+  },
+  {
+    "id": "pc-SA",
+    "prefix": "SA",
+    "region": "Wales & West Country",
+    "status": "Eligible",
+    "estimatedDays": "2 Days",
+    "surcharge": 0,
+    "notes": "Regular scheduled route. Driver calls 1 hour before arrival."
+  }
+]

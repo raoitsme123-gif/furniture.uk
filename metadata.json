@@ -1,0 +1,6 @@
+{
+  "name": "AMD Furniture UK",
+  "description": "Premium British furniture retailer offering luxury beds, wardrobes, sofas, and dining sets with UK-wide delivery and WhatsApp enquiry service.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
